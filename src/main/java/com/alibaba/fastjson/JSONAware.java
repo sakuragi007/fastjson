@@ -23,7 +23,7 @@ package com.alibaba.fastjson;
 public interface JSONAware {
 
     /**
-     * @return JSON text
+     * @return JSON text aware
      */
     String toJSONString();
 }
